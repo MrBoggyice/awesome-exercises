@@ -73,3 +73,103 @@ Creating a styled README file
 [A Smarter Way to Learn JavaScript
 Index of Exercises]
 (http://www.asmarterwaytolearn.com/js/index-of-exercises.html)
+
+
+# Awesome-Excercises
+Creating a styled README file
+
+## List of awesome exercises with resources for **beginner** programmers
+
+*Created by:*
+
+*	[Fortune] (https://github.com/MrBoggyice)
+*	[Moyosore](https://github.com/mohyour)
+*	[Koleola](https://github.com/micoleola)
+*	[Gregory](https://github.com/gregory2016)
+
+### Python
+[Codecademy]
+(https://www.codecademy.com/learn/python)
+
+[46 Simple Python Exercises ](www.ling.gu.se/~lager/python_exercises.html)
+
+
+### JavaScript
+[Codecademy]
+(https://www.codecademy.com/learn/javascript)
+
+[JavaScript Exercises, Practice, Solution]
+(http://www.w3resource.com/javascript-exercises/)
+
+[A Smarter Way to Learn JavaScript
+Index of Exercises]
+(http://www.asmarterwaytolearn.com/js/index-of-exercises.html)
+
+
+# Awesome-Excercises
+Creating a styled README file
+
+## List of awesome exercises with resources for **beginner** programmers
+
+*Created by:*
+
+*	[Fortune] (https://github.com/MrBoggyice)
+*	[Moyosore](https://github.com/mohyour)
+*	[Koleola](https://github.com/micoleola)
+*	[Gregory](https://github.com/gregory2016)
+
+### Python
+[Codecademy]
+(https://www.codecademy.com/learn/python)
+
+[46 Simple Python Exercises ](www.ling.gu.se/~lager/python_exercises.html)
+
+
+### JavaScript
+[Codecademy]
+(https://www.codecademy.com/learn/javascript)
+
+[JavaScript Exercises, Practice, Solution]
+(http://www.w3resource.com/javascript-exercises/)
+
+[A Smarter Way to Learn JavaScript
+Index of Exercises]
+(http://www.asmarterwaytolearn.com/js/index-of-exercises.html)
+
+###Ruby
+#####	Resources
+
+* [Programming Ruby, The Pragmatic Programmer's Guide]
+(http://ruby-doc.com/docs/ProgrammingRuby/)
+
+* [Coderwave | Learn to code]
+(http://coderwave.com/courses/)
+
+* [Learn Ruby from scratch: CodesDope]
+(http://www.codesdope.com/ruby-introduction)
+
+* [Ruby | Codecademy]
+(https://www.codecademy.com/learn/ruby)
+
+#####Exercises
+
+* [Good exercises for beginner]
+(https://www.ruby-forum.com/topic/160535)
+
+* [Beginning Programming with Ruby: Programming Exercises]
+(www.evc-cit.info/cit020/beginning-programming/chp_05/exercises.html)
+
+* [Exercises | Ruby for Beginners]
+(ruby-for-beginners.rubymonstas.org/exercises_2.html)
+
+* [Ruby Quiz Archives]
+(rubyquiz.com)
+
+
+##### Projects
+
+* [The Coolest Ruby Projects Ever]
+(www.teamtreehouse.com/coolest-ruby-projects-ever)
+
+* [Learn Ruby Programming for Free - The Odin Project]
+(www.theodinproject.com/ruby-programming)
