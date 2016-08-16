@@ -31,7 +31,7 @@ Creating a styled README file
 * [How to Make an HTML Website From Scratch]
 (http://www.2createawebsite.com/build/build-html-website.html)
 
-** Projects**
+**Projects**
 
 * [Web Projects](https://www.codecademy.com/en/tracks/projects)
 
