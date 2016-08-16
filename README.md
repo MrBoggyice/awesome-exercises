@@ -100,7 +100,7 @@ Index of Exercises]
 * [Exercises | Ruby for Beginners]
 (ruby-for-beginners.rubymonstas.org/exercises_2.html)
 
-* [Ruby Quiz Archives]
+* [Ruby Quiz Archives] 
 (rubyquiz.com)
 
 
