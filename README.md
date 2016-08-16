@@ -74,8 +74,8 @@ Creating a styled README file
 Index of Exercises]
 (http://www.asmarterwaytolearn.com/js/index-of-exercises.html)
 
-###Ruby
-#####	Resources
+##Ruby
+####	Resources
 
 * [Programming Ruby, The Pragmatic Programmer's Guide]
 (http://ruby-doc.com/docs/ProgrammingRuby/)
@@ -89,7 +89,7 @@ Index of Exercises]
 * [Ruby | Codecademy]
 (https://www.codecademy.com/learn/ruby)
 
-#####Exercises
+####Exercises
 
 * [Good exercises for beginner]
 (https://www.ruby-forum.com/topic/160535)
@@ -104,7 +104,7 @@ Index of Exercises]
 (rubyquiz.com)
 
 
-##### Projects
+#### Projects
 
 * [The Coolest Ruby Projects Ever]
 (www.teamtreehouse.com/coolest-ruby-projects-ever)
